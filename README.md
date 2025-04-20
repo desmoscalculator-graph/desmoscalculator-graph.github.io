@@ -1,1 +1,1 @@
-# desmoscalculator-graph.github.io
+https://desmoscalculator-graph.github.io/speedstars.html
